@@ -82,7 +82,7 @@
 ### 👀 Profile Visits
 
 <p align="center">
-  <img src="https://count.getloli.com/@purefootsoldier?theme=booru-helltaker&scale=1" />
+  <img src="https://count.getloli.com/@purefootsoldier?theme=booru-helltaker" />
 </p>
 
 
